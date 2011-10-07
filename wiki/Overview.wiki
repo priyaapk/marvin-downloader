@@ -3,7 +3,7 @@
 
 = Introduction =
 
-*Marvin* is a download assistant coded for the android OS. It was written out of a lack of a good, efficient downloader with basic features available. *Marvin* hopes to fill this gap.
+*Marvin* is a download assistant coded for the android OS. It was written out of a lack of a good, efficient downloader with basic features available. *Marvin* hopes to fill this gap. It uses ported and stripped down code from the open source project jDownloader which runs on PCs. Everything imported from jDownloader will be imported into the project as libraries and resources. _Reusing code, its the open source way_
 
 
 = Details =
