@@ -1,0 +1,19 @@
+# Introduction #
+
+**Marvin** is a download assistant coded for the android OS. It was written out of a lack of a good, efficient downloader with basic features available. **Marvin** hopes to fill this gap. It uses ported and stripped down code from the open source project jDownloader which runs on PCs. Everything imported from jDownloader will be imported into the project as libraries and resources. _Reusing code, its the open source way_
+
+
+# Details #
+
+## Basic Features ##
+In its most basic form, **Marvin** will be able to:
+  * Be used as a standalone program with an interface to allow you to either paster URLs from the clibpoard, import from a file, type in manually. Obviously this is not ideal, so it will provide integration into web applications such as a web browser. Another planned feature is clipboard monitoring of copied links.
+  * HTTP Authentication
+  * HTTP Download Resume
+
+## Planned Features ##
+  * File Hoster support
+  * Plug-in architecture for features and protocols
+  * Bittorrent Support
+  * RSS parsing
+  * Many Others
